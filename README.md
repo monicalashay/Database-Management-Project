@@ -1,5 +1,7 @@
 # Database-Management-Project
 
+[Link to Kaggle dataset](https://www.kaggle.com/crailtap/taxi-trajectory)
+
 The files contained in our project are as follows:
 
 [Taxi Route Read](https://github.com/chenson2018/Database-Management-Project/blob/master/Taxi%20Route%20Read.ipynb) - this file process the original CSV file and writes a pandas dataframe into a pickle file. 
